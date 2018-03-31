@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AppraisalData>
+	<id>1</id>
+	<year>2017</year>
+	<Category>
+		<SoftSkills>
+			<Attitude>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</Attitude>
+			<Timing>
+				<AppraisalReview>
+				  <Description>Has the ability to manage time through organization and deliver the task on-time</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</Timing>
+		</SoftSkills>
+		<Adaptability>
+			<ProjectOnBoarding>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+			  </AppraisalReview>
+			</ProjectOnBoarding>
+			<TechnologicalNeeds>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</TechnologicalNeeds>
+		</Adaptability>
+
+		<TechnicalSkills>
+			<Design_IA_Skills>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</Design_IA_Skills>
+			<LearningAbility>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</LearningAbility>
+		</TechnicalSkills>
+		<CodeQuality>
+			<CodeDefect>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</CodeDefect>
+			<ReviewCapability>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</ReviewCapability>
+		 </CodeQuality>
+		<SelfGrooming>
+			<Improvements>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</Improvements>
+			<MeetingGoals>
+				<AppraisalReview>
+				  <Description>Tendency to respond professionaly towards a person / situation</Description>
+				  <Appraisee_review>0</Appraisee_review>
+				  <Appraiser_review>0</Appraiser_review>
+				  <Reviewer_review>0</Reviewer_review>
+				</AppraisalReview>
+			</MeetingGoals>
+		</SelfGrooming>
+	</Category>
+</AppraisalData>
